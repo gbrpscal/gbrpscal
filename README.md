@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
+<h1 align="center">Prazer, me chamo Gabriel 👋</h1>
 <p align="center"><b>Desenvolvedor Back-end PHP</b> · Palhoça, SC · Brasil</p>
 
 <p align="center">
